@@ -1,0 +1,2 @@
+In remoting end of this repo, .gitignore didn't filter .txt, but 
+at customer end .txt is listed in .gitignore.
